@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋 Hi, I'm Arpit — a curious developer passionate about building impactful mobile and web experiences with a focus on clean code, scalability, and learning new technologies.</h4>
+<h4 align="left">Hi 👋 Hi, I'm Arpit — 🚀 Passionate Developer | Aspiring App & Backend Engineer | Lifelong Learner.</h4>
 
 ###
 
